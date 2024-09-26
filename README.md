@@ -2,9 +2,49 @@
 
 ###
 
-<p align="left">- 👨‍💻 Desenvolvedor Mobile | Kotlin | Java<br>- 🎓 Formado em Análise e Desenvolvimento de Sistemas</p>
+<p align="left">- 👨‍💻 Desenvolvedor Mobile <br>- 🎓 Formado em Análise e Desenvolvimento de Sistemas</p>
 
-###
+<h2 align="left">🚀 Habilidades Técnicas:</h2>
+<h5>
+📱 Kotlin | Java - Desenvolvimento de aplicativos nativos Android.
+</h5>
+<h5>
+🤖 Android SDK - Domínio das bibliotecas essenciais e componentes do Android.
+</h5>
+
+💻 Coroutines & Flow - Gerenciamento eficiente de threads e fluxo de dados.
+
+🚀 Jetpack Components - Uso de LiveData, ViewModel, Navigation, Room, e outros componentes do Jetpack.
+
+🔥 Firebase - Autenticação, Firestore, Analytics, Crashlytics, e mais.
+
+💻 APIs RESTful - Integração com serviços e APIs para conectar os apps ao mundo externo.
+
+💻 Retrofit & OkHttp - Consumo de APIs com soluções seguras e eficientes.
+
+💻 Git & GitHub - Controle de versão e colaboração em projetos.
+</h5>
+
+
+<h2 align="left">👨‍💻 O que estou aprendendo agora:</h2>
+<h5>
+📲 Kotlin Multiplatform - Desenvolvimento multiplataforma com Kotlin para compartilhar lógica entre Android e iOS.
+</h5>
+<h5>
+💻 Compose - Declarative UI em Android com Jetpack Compose.
+</h5>
+<h5>
+💻 MVVM/MVP/MVC - Aplicação de padrões arquiteturais para apps organizados e escaláveis.
+</h5>
+<h5>
+💻 MVVM com Clean Architecture e Injeção de dependências com Hilt.
+</h5>
+<h5>
+💻 Testes unitários.
+</h5>
+<h5>
+💻 Testes instrumentados.
+</h5>
 
 
 <h2 align="left">Techs</h2>
