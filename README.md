@@ -6,6 +6,7 @@
 
 ###
 
+
 <h2 align="left">Techs</h2>
 
 ###
@@ -28,9 +29,11 @@
 
 ###
 
+
 <h2 align="left">Social Media</h2>
 
 ###
+
 
 <div align="left">
   <a href="https://www.instagram.com/will._marques/" target="_blank">
@@ -43,22 +46,22 @@
 
 ###
 
+
 <h2 align="left">Stats</h2>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilMarques05&theme=cobalt&radius=250" height="250" alt="activity-graph graph"  />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilMarques05&theme=cobalt&radius=250" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/W9kX.gif"  />
-
-###
-
+<div align="center" >
 <img src="https://raw.githubusercontent.com/WilMarques05/WilMarques05/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
