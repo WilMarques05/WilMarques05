@@ -53,8 +53,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="170" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilMarques05&theme=cobalt&radius=250" height="400" alt="activity-graph graph"  />
 </div>
 
