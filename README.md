@@ -2,25 +2,11 @@
 
 ###
 
-<p align="left">- 👨‍💻 Desenvolvedor Mobile <br>- 🎓 Formado em Análise e Desenvolvimento de Sistemas</p>
+<p align="left">- 👨‍💻 Desenvolvedor Backend JAVA - SpringBoot <br>- 🎓 Formado em Análise e Desenvolvimento de Sistemas</p>
 
 <h2 align="left">🚀 Habilidades Técnicas:</h2>
-<h5>
-📱 Kotlin | Java - Desenvolvimento de aplicativos nativos Android.
-</h5>
-<h5>
-🤖 Android SDK - Domínio das bibliotecas essenciais e componentes do Android.
-</h5>
-
-💻 Coroutines & Flow - Gerenciamento eficiente de threads e fluxo de dados.
-
-🚀 Jetpack Components - Uso de LiveData, ViewModel, Navigation, Room, e outros componentes do Jetpack.
-
-🔥 Firebase - Autenticação, Firestore, Analytics, Crashlytics, e mais.
 
 💻 APIs RESTful - Integração com serviços e APIs para conectar os apps ao mundo externo.
-
-💻 Retrofit & OkHttp - Consumo de APIs com soluções seguras e eficientes.
 
 💻 Git & GitHub - Controle de versão e colaboração em projetos.
 </h5>
