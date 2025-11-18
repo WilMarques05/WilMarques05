@@ -2,7 +2,8 @@
 
 ### Backend Developer | Java | Spring Boot
 
-Desenvolvedor Backend Júnior, focado no ecossistema Java. Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot**, **Microsserviços**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**. Meu objetivo é contribuir com soluções escaláveis e de alta disponibilidade.
+Desenvolvedor Backend, focado no ecossistema Java. Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot**, **Microsserviços**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**. 
+Meu objetivo é contribuir com soluções escaláveis e de alta disponibilidade.
 
 ---
 
@@ -58,13 +59,7 @@ Minhas principais competências incluem o ecossistema Java e práticas modernas 
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/willis-silva-marques-53a306aa](https://www.linkedin.com/in/willis-silva-marques-53a306aa/) |
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/willis-silva-marques-53a306aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="LinkedIn Logo"/>
-  </a>
-</p>
+| **LinkedIn** | [linkedin.com/in/willis-silva-marques-53a306aa](https://www.linkedin.com/in/willis-silva-marques-53a306aa/) | <p align="center"> <a href="https://www.linkedin.com/in/willis-silva-marques-53a306aa/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="LinkedIn Logo"/> </a> </p>
 
 ---
 
