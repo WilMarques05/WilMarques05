@@ -1,12 +1,26 @@
-## 🚀 Habilidades Técnicas
+name: Generate Snake Animation
 
-Minhas principais competências incluem o ecossistema Java e práticas modernas de desenvolvimento:
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda diariamente à meia-noite (UTC)
+  workflow_dispatch:
 
-<div align="center">
-  <img src="[https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,flutter,docker,git,mysql,postgresql,firebase,sqlite](https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,flutter,docker,git,mysql,postgresql,firebase,sqlite)" height="40" alt="Tech Icons" />
-</div>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: WilMarques05
+          outputs: |
+            dist/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-<br/>
-
-* **Arquitetura:** Microsserviços, APIs RESTful, CI/CD, Estratégias de Deploy (Blue/Green).
-* **Metodologia:** Projetos Ágeis com SCRUM.
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output # O nome da branch que armazena o SVG
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
