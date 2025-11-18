@@ -3,6 +3,7 @@
 ### Backend Developer | Java | Spring Boot
 
 Desenvolvedor Backend, focado no ecossistema Java. Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot**, **Microsserviços**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**. 
+
 Meu objetivo é contribuir com soluções escaláveis e de alta disponibilidade.
 
 ---
