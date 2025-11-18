@@ -2,7 +2,8 @@
 
 ### Backend Developer | Java | Spring Boot
 
-Desenvolvedor Backend, focado no ecossistema Java. Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**. Meu objetivo é contribuir com soluções escaláveis e de alta disponibilidade.
+Desenvolvedor Backend, focado no ecossistema Java. Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**. 
+Meu objetivo é contribuir com soluções escaláveis e de alta disponibilidade.
 
 ---
 
@@ -23,22 +24,37 @@ Atuei na evolução da plataforma de fisioterapia e fonoterapia, participando da
 
 Minhas principais competências incluem o ecossistema Java e práticas modernas de desenvolvimento:
 
-### Linguagens & Frameworks
-| Tecnologia | Badge |
-| :--- | :--- |
-| **Java** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/> |
-| **Spring Boot** | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> |
-| **Kotlin** | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge"/> |
-| **Flutter** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Badge"/> |
-| **Jakarta EE / Spring MVC** | <img src="https://img.shields.io/badge/Jakarta%20EE-CC0067?style=flat-square&logo=eclipseide&logoColor=white" alt="Jakarta EE Badge"/> |
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  
+  <div style="width: 50%;">
+    
+    ### Linguagens & Frameworks
+    
+    | Tecnologia | Badge |
+    | :--- | :--- |
+    | **Java** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/> |
+    | **Spring Boot** | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> |
+    | **Kotlin** | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge"/> |
+    | **Flutter** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Badge"/> |
+    | **Jakarta EE / Spring MVC** | <img src="https://img.shields.io/badge/Jakarta%20EE-CC0067?style=flat-square&logo=eclipseide&logoColor=white" alt="Jakarta EE Badge"/> |
+    
+  </div>
+  
+  <div style="width: 50%;">
+    
+    ### Banco de Dados & DevOps
+    
+    | Ferramenta | Badge |
+    | :--- | :--- |
+    | **MySQL** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/> |
+    | **PostgreSQL** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> |
+    | **Docker** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/> |
+    | **Git & GitHub** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/> |
+    | **Microsserviços** | ⚙️ |
 
-### Banco de Dados & DevOps
-| Ferramenta | Badge |
-| :--- | :--- |
-| **MySQL** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/> |
-| **PostgreSQL** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> |
-| **Docker** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/> |
-| **Git & GitHub** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/> |
+  </div>
+  
+</div>
 
 * **Arquitetura:** Microsserviços, APIs RESTful, CI/CD, Estratégias de Deploy (Blue/Green).
 * **Metodologia:** Projetos Ágeis com SCRUM.
