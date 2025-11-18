@@ -1,3 +1,94 @@
+# 👋 Olá! Eu sou Willis Silva Marques
+
+### 👨‍💻 Backend Developer | Java | Spring Boot
+
+[cite_start]Desenvolvedor Backend Júnior com foco no ecossistema Java[cite: 16, 18]. [cite_start]Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Pós-Graduação em Desenvolvimento Java[cite: 18].
+
+[cite_start]Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot** [cite: 19][cite_start], **Microsserviços** [cite: 6][cite_start], versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**[cite: 19].
+
+Estou empenhado em aplicar minhas habilidades para criar soluções escaláveis e de alta disponibilidade.
+
+---
+
+## 💼 Experiência Profissional
+
+### [cite_start]Desenvolvedor Backend na Vitae Box (Fevereiro de 2025 - Presente) [cite: 22, 23]
+[cite_start]Participei ativamente da evolução da plataforma de fisioterapia e fonoterapia da Vitae Box [cite: 24][cite_start], atuando durante a transição crucial do produto de um MVP para uma arquitetura escalável[cite: 24].
+
+**Principais Responsabilidades e Contribuições:**
+* [cite_start]Desenvolvimento e otimização de **Microsserviços** e **APIs RESTful** em Java com Spring Boot[cite: 26].
+* [cite_start]Suporte às trilhas de tratamento e ao sistema de gamificação do aplicativo[cite: 26].
+* [cite_start]Estruturação do banco de dados utilizando **JPA** e **MySQL**[cite: 27].
+* [cite_start]Implementação de uma esteira de integração e entrega contínua (**CI/CD**) com **Docker** e **Git/GitHub**[cite: 27].
+* [cite_start]Minhas contribuições ajudaram a plataforma a suportar um aumento significativo no tráfego de usuários com alta disponibilidade[cite: 28].
+
+---
+
+## 🛠️ Habilidades Técnicas e Ferramentas
+
+Minhas principais competências incluem:
+
+### ⚙️ Linguagens e Backend
+| Tecnologia | Ícone |
+| :--- | :--- |
+| **Java** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/> |
+| **Spring Boot** | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> |
+| **Jakarta EE** | <img src="https://img.shields.io/badge/Jakarta%20EE-CC0067?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Jakarta EE Badge"/> |
+| **Spring MVC** | <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC Badge"/> |
+| **Microsserviços** | 💻 |
+
+### 🗄️ Bancos de Dados e ORM
+| Banco de Dados | Ícone |
+| :--- | :--- |
+| **MySQL** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/> |
+| **PostgreSQL** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> |
+| **MariaDB** | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge"/> |
+| **JPA** (Hibernate) | 🌿 |
+
+### ☁️ DevOps e Ferramentas
+* [cite_start]**CI/CD** (Integração e Entrega Contínua) [cite: 19]
+* [cite_start]**Docker** [cite: 19]
+* [cite_start]Estratégias de Deploy: Blue/Green [cite: 19]
+* [cite_start]Controle de Versão: **Git** e **GitHub** [cite: 19]
+
+### 💡 Outras Habilidades
+* [cite_start]Projetos Ágeis com **SCRUM** [cite: 11]
+* [cite_start]Desenvolvimento Android (Kotlin e Java) [cite: 10]
+* [cite_start]Desenvolvimento Mobile com Flutter (Android e iOS) [cite: 12]
+
+---
+
+## 🎓 Formação Acadêmica
+
+* [cite_start]**Pós-Graduação em Java** (Março de 2025 - Junho de 2026) [cite: 33]
+    * [cite_start]Universidade Tecnológica Federal do Paraná (UTFPR) [cite: 32]
+* [cite_start]**Curso Superior de Tecnologia (CST) em Análise de Sistemas de Computação** (2019 - 2024) [cite: 35]
+    * [cite_start]Fundação Visconde de Cairu [cite: 34]
+
+---
+
+## 📫 Conecte-se Comigo
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [cite_start][linkedin.com/in/willis-silva-marques-53a306aa](https://www.linkedin.com/in/willis-silva-marques-53a306aa) [cite: 3, 4] |
+| [cite_start]**E-mail** | willis.s.marques@gmail.com [cite: 2] |
+
+<br/>
+<p align="center">
+    *Motivado a transformar desafios em código elegante e funcional.*
+</p>
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h2 align="left">About Me</h2>
 
 ###
