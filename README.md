@@ -14,7 +14,7 @@ Atuei na evolução da plataforma de fisioterapia e fonoterapia, participando da
 
 * Desenvolvi e otimizei **Microsserviços e APIs RESTful** em Java com Spring Boot.
 * Estruturei o banco de dados utilizando **JPA** e **MySQL**.
-* Implementei **CI/CD** com Docker e Git/GitHub, garantindo estabilidade técnica em fase de escalonamento.
+* Implementei **CI/CD** com Docker e Git/GitHub.
 * Contribuí para a **alta disponibilidade** da plataforma.
 
 ---
@@ -23,18 +23,11 @@ Atuei na evolução da plataforma de fisioterapia e fonoterapia, participando da
 
 Minhas principais competências incluem o ecossistema Java e práticas modernas de desenvolvimento:
 
-<p align="center">
-  <img src="[https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)" alt="Java Badge"/>
-  <img src="[https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)" alt="Spring Boot Badge"/>
-  <img src="[https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)" alt="Kotlin Badge"/>
-  <img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)" alt="Flutter Badge"/>
-  <img src="[https://img.shields.io/badge/Jakarta%20EE-CC0067?style=flat-square&logo=eclipseide&logoColor=white](https://img.shields.io/badge/Jakarta%20EE-CC0067?style=flat-square&logo=eclipseide&logoColor=white)" alt="Jakarta EE Badge"/>
-  
-  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)" alt="MySQL Badge"/>
-  <img src="[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)" alt="PostgreSQL Badge"/>
-  <img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)" alt="Docker Badge"/>
-  <img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)" alt="Git Badge"/>
-</p>
+<div align="center">
+  <img src="[https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,flutter,docker,git,mysql,postgresql,firebase,sqlite](https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,flutter,docker,git,mysql,postgresql,firebase,sqlite)" height="40" alt="Tech Icons" />
+</div>
+
+<br/>
 
 * **Arquitetura:** Microsserviços, APIs RESTful, CI/CD, Estratégias de Deploy (Blue/Green).
 * **Metodologia:** Projetos Ágeis com SCRUM.
@@ -52,15 +45,14 @@ Minhas principais competências incluem o ecossistema Java e práticas modernas 
 
 ## 📫 Conecte-se Comigo
 
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/willis-silva-marques-53a306aa](https://www.linkedin.com/in/willis-silva-marques-53a306aa/) |
-
-<p align="center">
+<div align="center">
   <a href="[https://www.linkedin.com/in/willis-silva-marques-53a306aa/](https://www.linkedin.com/in/willis-silva-marques-53a306aa/)" target="_blank">
     <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)" width="45" height="35" alt="LinkedIn Logo"/>
   </a>
-</p>
+  <a href="[https://www.instagram.com/will._marques/](https://www.instagram.com/will._marques/)" target="_blank">
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)" width="45" height="35" alt="Instagram Logo"/>
+  </a>
+</div>
 
 ---
 
