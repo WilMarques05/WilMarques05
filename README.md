@@ -1,136 +1,84 @@
-# Willis Silva Marques
+# 👋 Olá! Eu sou Willis Silva Marques
 
-<h2 align="left">About Me</h2>
+### Backend Developer | Java | Spring Boot
 
-###
-
-<p align="left">- 👨‍💻 Desenvolvedor Backend JAVA - SpringBoot | Júnior <br>- 🎓 Formado em Análise e Desenvolvimento de Sistemas | Pós-Graduando em JAVA</p>
-
-## Resumo Profissional
-
-Desenvolvedor Backend Júnior, com foco no ecossistema Java.
-Possuo uma base sólida na construção de **APIs RESTful com Spring Boot**, **Microsserviços**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**.
+Desenvolvedor Backend, focado no ecossistema Java. Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**. Meu objetivo é contribuir com soluções escaláveis e de alta disponibilidade.
 
 ---
 
-<h2 align="left">💼 Experiência em Destaque</h2>
+## 💼 Experiência Profissional
 
-###
-<h5 align="left">
-**Desenvolvedor Backend na Vitae Box** (Fev/2025 - Presente)
-</h5>
-<p align="left">
-Participei da evolução da plataforma de fisioterapia e fonoterapia, auxiliando na transição de MVP para uma arquitetura escalável.
-</p>
-<p align="left">
-- **Desenvolvi e otimizei Microsserviços e APIs RESTful** em Java com Spring Boot.
-- **Estruturei o banco de dados** com JPA e MySQL.
-- **Implementei CI/CD** com Docker e Git/GitHub.
-- Contribuí para a **alta disponibilidade** da plataforma, suportando aumento significativo no tráfego.
-</p>
+### Desenvolvedor Backend na Vitae Box (Fevereiro de 2025 - Presente)
+
+Atuei na evolução da plataforma de fisioterapia e fonoterapia, participando da transição de MVP para uma arquitetura escalável.
+
+* Desenvolvi e otimizei **Microsserviços e APIs RESTful** em Java com Spring Boot.
+* Estruturei o banco de dados utilizando **JPA** e **MySQL**.
+* Implementei **CI/CD** com Docker e Git/GitHub, garantindo estabilidade técnica em fase de escalonamento.
+* Contribuí para a **alta disponibilidade** da plataforma.
 
 ---
 
-<h2 align="left">🚀 Habilidades Técnicas:</h2>
+## 🚀 Habilidades Técnicas
 
-###
+Minhas principais competências incluem o ecossistema Java e práticas modernas de desenvolvimento:
 
-<p align="left">
-💻 **Microsserviços** - Arquitetura escalável para dividir aplicações complexas.
-</p>
-<p align="left">
-💻 **APIs RESTful** - Construção de serviços de alta performance com Spring Boot.
-</p>
-<p align="left">
-💻 **CI/CD com Docker** - Automação da integração e deploy contínuo.
-</p>
-<p align="left">
-💻 **Git & GitHub** - Controle de versão e colaboração em projetos.
-</p>
-<p align="left">
-💻 **Estratégias de Deploy** - Experiência com Blue/Green.
-</p>
-<p align="left">
-💻 **Scrum** - Projetos ágeis e entregas iterativas.
-</p>
+### Linguagens & Frameworks
+| Tecnologia | Badge |
+| :--- | :--- |
+| **Java** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/> |
+| **Spring Boot** | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> |
+| **Kotlin** | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge"/> |
+| **Flutter** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Badge"/> |
+| **Jakarta EE / Spring MVC** | <img src="https://img.shields.io/badge/Jakarta%20EE-CC0067?style=flat-square&logo=eclipseide&logoColor=white" alt="Jakarta EE Badge"/> |
 
----
+### Banco de Dados & DevOps
+| Ferramenta | Badge |
+| :--- | :--- |
+| **MySQL** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/> |
+| **PostgreSQL** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> |
+| **Docker** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/> |
+| **Git & GitHub** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/> |
 
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="springboot logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="25" />
-
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
-</div>
-
-###
-
-<h2 align="left">📚 Formação Acadêmica</h2>
-
-###
-<h5>
-🎓 **Pós-Graduação em JAVA** (Mar/2025 - Jun/2026)
-</h5>
-<p align="left">
-Universidade Tecnológica Federal do Paraná (UTFPR)
-</p>
-<h5>
-🎓 **Curso Superior de Tecnologia (CST) em Análise de Sistemas de Computação** (2019 - 2024)
-</h5>
-<p align="left">
-Fundação Visconde de Cairu
-</p>
+* **Arquitetura:** Microsserviços, APIs RESTful, CI/CD, Estratégias de Deploy (Blue/Green).
+* **Metodologia:** Projetos Ágeis com SCRUM.
 
 ---
 
-<h2 align="left">Social Media</h2>
+## 🎓 Formação Acadêmica
 
-###
+* **Pós-Graduação em JAVA** (Março de 2025 - Junho de 2026)
+    * Universidade Tecnológica Federal do Paraná (UTFPR)
+* **Curso Superior de Tecnologia (CST) em Análise de Sistemas de Computação** (2019 - 2024)
+    * Fundação Visconde de Cairu
 
-<div align="left">
+---
+
+## 📫 Conecte-se Comigo
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/willis-silva-marques-53a306aa](https://www.linkedin.com/in/willis-silva-marques-53a306aa/) |
+
+<p align="center">
   <a href="https://www.linkedin.com/in/willis-silva-marques-53a306aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="LinkedIn Logo"/>
   </a>
-  <a href="https://www.instagram.com/will._marques/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<h2 align="left">Stats</h2>
-
-###
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="170" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilMarques05&theme=cobalt&radius=250" height="400" alt="activity-graph graph"  />
-</div>
-<div align="center" >
-<img src="https://raw.githubusercontent.com/WilMarques05/WilMarques05/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false" height="170" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="170" alt="Languages Graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilMarques05&theme=cobalt&radius=250" height="400" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WilMarques05/WilMarques05/output/snake.svg" alt="Snake animation" />
+</div>
