@@ -2,8 +2,7 @@
 
 ### Backend Developer | Java | Spring Boot
 
-Desenvolvedor Backend, focado no ecossistema Java. Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**. 
-Meu objetivo é contribuir com soluções escaláveis e de alta disponibilidade.
+Desenvolvedor Backend Júnior, focado no ecossistema Java. Possuo uma base sólida na construção de **APIs RESTful** com **Spring Boot**, **Microsserviços**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**. Meu objetivo é contribuir com soluções escaláveis e de alta disponibilidade.
 
 ---
 
@@ -24,37 +23,18 @@ Atuei na evolução da plataforma de fisioterapia e fonoterapia, participando da
 
 Minhas principais competências incluem o ecossistema Java e práticas modernas de desenvolvimento:
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<p align="center">
+  <img src="[https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)" alt="Java Badge"/>
+  <img src="[https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)" alt="Spring Boot Badge"/>
+  <img src="[https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)" alt="Kotlin Badge"/>
+  <img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)" alt="Flutter Badge"/>
+  <img src="[https://img.shields.io/badge/Jakarta%20EE-CC0067?style=flat-square&logo=eclipseide&logoColor=white](https://img.shields.io/badge/Jakarta%20EE-CC0067?style=flat-square&logo=eclipseide&logoColor=white)" alt="Jakarta EE Badge"/>
   
-  <div style="width: 50%;">
-    
-    ### Linguagens & Frameworks
-    
-    | Tecnologia | Badge |
-    | :--- | :--- |
-    | **Java** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/> |
-    | **Spring Boot** | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> |
-    | **Kotlin** | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge"/> |
-    | **Flutter** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Badge"/> |
-    | **Jakarta EE / Spring MVC** | <img src="https://img.shields.io/badge/Jakarta%20EE-CC0067?style=flat-square&logo=eclipseide&logoColor=white" alt="Jakarta EE Badge"/> |
-    
-  </div>
-  
-  <div style="width: 50%;">
-    
-    ### Banco de Dados & DevOps
-    
-    | Ferramenta | Badge |
-    | :--- | :--- |
-    | **MySQL** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge"/> |
-    | **PostgreSQL** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> |
-    | **Docker** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"/> |
-    | **Git & GitHub** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/> |
-    | **Microsserviços** | ⚙️ |
-
-  </div>
-  
-</div>
+  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)" alt="MySQL Badge"/>
+  <img src="[https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)" alt="PostgreSQL Badge"/>
+  <img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)" alt="Docker Badge"/>
+  <img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)" alt="Git Badge"/>
+</p>
 
 * **Arquitetura:** Microsserviços, APIs RESTful, CI/CD, Estratégias de Deploy (Blue/Green).
 * **Metodologia:** Projetos Ágeis com SCRUM.
@@ -77,8 +57,8 @@ Minhas principais competências incluem o ecossistema Java e práticas modernas 
 | **LinkedIn** | [linkedin.com/in/willis-silva-marques-53a306aa](https://www.linkedin.com/in/willis-silva-marques-53a306aa/) |
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/willis-silva-marques-53a306aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="LinkedIn Logo"/>
+  <a href="[https://www.linkedin.com/in/willis-silva-marques-53a306aa/](https://www.linkedin.com/in/willis-silva-marques-53a306aa/)" target="_blank">
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)" width="45" height="35" alt="LinkedIn Logo"/>
   </a>
 </p>
 
@@ -87,14 +67,14 @@ Minhas principais competências incluem o ecossistema Java e práticas modernas 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false" height="170" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="170" alt="Languages Graph" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false](https://github-readme-stats.vercel.app/api?username=WilMarques05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false)" height="170" alt="Stats Graph" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs?username=WilMarques05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false)" height="170" alt="Languages Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilMarques05&theme=cobalt&radius=250" height="400" alt="Activity Graph" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=WilMarques05&theme=cobalt&radius=250](https://github-readme-activity-graph.vercel.app/graph?username=WilMarques05&theme=cobalt&radius=250)" height="400" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WilMarques05/WilMarques05/output/snake.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/WilMarques05/WilMarques05/output/snake.svg](https://raw.githubusercontent.com/WilMarques05/WilMarques05/output/snake.svg)" alt="Snake animation" />
 </div>
