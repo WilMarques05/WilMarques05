@@ -1,3 +1,5 @@
+# Willis Silva Marques
+
 <h2 align="left">About Me</h2>
 
 ###
@@ -6,8 +8,8 @@
 
 ## Resumo Profissional
 
-[cite_start]Desenvolvedor Backend Júnior [cite: 18][cite_start], com foco no ecossistema Java[cite: 18].
-[cite_start]Possuo uma base sólida na construção de **APIs RESTful com Spring Boot** [cite: 19][cite_start], **Microsserviços** [cite: 6][cite_start], versionamento com **Git/GitHub** [cite: 19] [cite_start]e práticas de **DevOps**, incluindo **CI/CD** com **Docker**[cite: 19].
+Desenvolvedor Backend Júnior, com foco no ecossistema Java.
+Possuo uma base sólida na construção de **APIs RESTful com Spring Boot**, **Microsserviços**, versionamento com **Git/GitHub** e práticas de **DevOps**, incluindo **CI/CD** com **Docker**.
 
 ---
 
@@ -15,16 +17,16 @@
 
 ###
 <h5 align="left">
-[cite_start]**Desenvolvedor Backend na Vitae Box** (Fev/2025 - Presente) [cite: 22]
+**Desenvolvedor Backend na Vitae Box** (Fev/2025 - Presente)
 </h5>
 <p align="left">
-[cite_start]Participei da evolução da plataforma de fisioterapia e fonoterapia, auxiliando na transição de MVP para uma arquitetura escalável[cite: 24].
+Participei da evolução da plataforma de fisioterapia e fonoterapia, auxiliando na transição de MVP para uma arquitetura escalável.
 </p>
 <p align="left">
-- [cite_start]**Desenvolvi e otimizei Microsserviços e APIs RESTful** em Java com Spring Boot[cite: 26].
-- [cite_start]**Estruturei o banco de dados** com JPA e MySQL[cite: 27].
-- [cite_start]**Implementei CI/CD** com Docker e Git/GitHub[cite: 27].
-- [cite_start]Contribuí para a **alta disponibilidade** da plataforma, suportando aumento significativo no tráfego[cite: 28].
+- **Desenvolvi e otimizei Microsserviços e APIs RESTful** em Java com Spring Boot.
+- **Estruturei o banco de dados** com JPA e MySQL.
+- **Implementei CI/CD** com Docker e Git/GitHub.
+- Contribuí para a **alta disponibilidade** da plataforma, suportando aumento significativo no tráfego.
 </p>
 
 ---
@@ -34,22 +36,22 @@
 ###
 
 <p align="left">
-[cite_start]💻 **Microsserviços** - Arquitetura escalável para dividir aplicações complexas[cite: 6].
+💻 **Microsserviços** - Arquitetura escalável para dividir aplicações complexas.
 </p>
 <p align="left">
-[cite_start]💻 **APIs RESTful** - Construção de serviços de alta performance com Spring Boot[cite: 19].
+💻 **APIs RESTful** - Construção de serviços de alta performance com Spring Boot.
 </p>
 <p align="left">
-[cite_start]💻 **CI/CD com Docker** - Automação da integração e deploy contínuo[cite: 19].
+💻 **CI/CD com Docker** - Automação da integração e deploy contínuo.
 </p>
 <p align="left">
-[cite_start]💻 **Git & GitHub** - Controle de versão e colaboração em projetos[cite: 19].
+💻 **Git & GitHub** - Controle de versão e colaboração em projetos.
 </p>
 <p align="left">
-[cite_start]💻 **Estratégias de Deploy** - Experiência com Blue/Green[cite: 19].
+💻 **Estratégias de Deploy** - Experiência com Blue/Green.
 </p>
 <p align="left">
-[cite_start]💻 **Scrum** - Projetos ágeis e entregas iterativas[cite: 11].
+💻 **Scrum** - Projetos ágeis e entregas iterativas.
 </p>
 
 ---
@@ -89,13 +91,13 @@
 
 ###
 <h5>
-[cite_start]🎓 **Pós-Graduação em JAVA** (Mar/2025 - Jun/2026) [cite: 33]
+🎓 **Pós-Graduação em JAVA** (Mar/2025 - Jun/2026)
 </h5>
 <p align="left">
 Universidade Tecnológica Federal do Paraná (UTFPR)
 </p>
 <h5>
-[cite_start]🎓 **Curso Superior de Tecnologia (CST) em Análise de Sistemas de Computação** (2019 - 2024) [cite: 35]
+🎓 **Curso Superior de Tecnologia (CST) em Análise de Sistemas de Computação** (2019 - 2024)
 </h5>
 <p align="left">
 Fundação Visconde de Cairu
