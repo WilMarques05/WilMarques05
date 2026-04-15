@@ -18,19 +18,19 @@ Atualmente estou em constante evolução na área de desenvolvimento web atravé
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tecnologias
 
-<p align="center">
+### 💻 Front-End
+![Front-End](https://skillicons.dev/icons?i=html,css)
 
-<strong>🚀 Core</strong><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,git,github" />
+### 💻 Back-End
+![Back-End](https://skillicons.dev/icons?i=java,spring)
 
-<br><br>
+### ⚙️ Ferramentas
+![Ferramentas](https://skillicons.dev/icons?i=git,github)
 
-<strong>📚 Em aprendizado</strong><br><br>
-<img src="https://skillicons.dev/icons?i=js,java,spring,mysql,postgres,aws" />
-
-</p>
+### 🧠 Conhecimentos básicos
+![Conhecimentos](https://skillicons.dev/icons?i=js,mysql,postgres,aws)
 
 ---
 
@@ -70,20 +70,6 @@ Interface web moderna e responsiva simulando um painel administrativo.
 Atualmente estou focado em evoluir minhas habilidades com JavaScript e desenvolvimento front-end para criar aplicações mais interativas.
 
 ---
-
-## 📫 Contato
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:willis.s.marques@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/willis-silva-marques-53a306aa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 
 ## 📫 Contato
 
