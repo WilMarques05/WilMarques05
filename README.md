@@ -18,19 +18,19 @@ Atualmente estou em constante evolução na área de desenvolvimento web atravé
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack Tecnológica
 
-### 💻 Front-End
-![Front-End](https://skillicons.dev/icons?i=html,css)
+<p align="center">
 
-### 💻 Back-End
-![Back-End](https://skillicons.dev/icons?i=java,spring)
+<strong>🚀 Core</strong><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,git,github" />
 
-### ⚙️ Ferramentas
-![Ferramentas](https://skillicons.dev/icons?i=git,github)
+<br><br>
 
-### 🧠 Conhecimentos básicos
-![Conhecimentos](https://skillicons.dev/icons?i=js,mysql,postgres,aws)
+<strong>📚 Em aprendizado</strong><br><br>
+<img src="https://skillicons.dev/icons?i=js,java,spring,mysql,postgres,aws" />
+
+</p>
 
 ---
 
