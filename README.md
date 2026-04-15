@@ -73,6 +73,18 @@ Atualmente estou focado em evoluir minhas habilidades com JavaScript e desenvolv
 
 ## 📫 Contato
 
+<p align="center">
+  <a href="mailto:willis.s.marques@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/willis-silva-marques-53a306aa">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
+## 📫 Contato
+
 📧 willis.s.marques@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/willis-silva-marques-53a306aa  
 
