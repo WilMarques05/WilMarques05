@@ -10,7 +10,8 @@ Atualmente estou em constante evolução na área de desenvolvimento web atravé
 ## 🚀 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 📚 Estudando Front-End pelo programa Ford Enter  
+- 📚 Estudando Front-End pelo programa Ford Enter
+- 🌍 Estudando inglês pelo programa Soul Bilíngue  
 - 💡 Focado em desenvolvimento de interfaces web
 - 💻 Conhecimento básico na linguagem de programação Java
 - 📈 Buscando minha primeira oportunidade como desenvolvedor  
