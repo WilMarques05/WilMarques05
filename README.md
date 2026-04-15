@@ -68,7 +68,7 @@ Interface web moderna e responsiva simulando um painel administrativo.
 
 ## 🐍 Contribuições (Snake)
 
-![snake gif](https://github.com/WilMarques05/WilMarques05/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/WilMarques05/WilMarques05/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
