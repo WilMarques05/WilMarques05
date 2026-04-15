@@ -60,8 +60,8 @@ Interface web moderna e responsiva simulando um painel administrativo.
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WilMarques05&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilMarques05&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WilMarques05&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WilMarques05&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
