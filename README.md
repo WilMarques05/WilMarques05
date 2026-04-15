@@ -17,9 +17,7 @@ Atualmente estou em constante evolução na área de desenvolvimento web atravé
 - 📈 Buscando minha primeira oportunidade como desenvolvedor  
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,spring,git,github,js,mysql,postgres,aws" />
-</p>
+
 ## 🛠️ Tecnologias
 
 ### 💻 Front-End
