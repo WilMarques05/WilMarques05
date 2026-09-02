@@ -47,17 +47,13 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e estudante de **Engenhar
 ---
 
 <div align="center">
-  <!-- Card de Estatísticas Gerais (Servidor alternativo sem erro de limite) -->
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=WilMarques05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas de Willis" height="150" />
-  
-  <!-- Card de Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=WilMarques05&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilMarques05&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=WilMarques05&theme=tokyonight" height="150" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Card de Sequência de Commits (Streak - Funcional) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilMarques05&theme=tokyonight&hide_border=true" alt="Sequência de Commits" height="150" />
 </div>
 
