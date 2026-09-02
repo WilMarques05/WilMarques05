@@ -47,13 +47,17 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e estudante de **Engenhar
 ---
 
 <div align="center">
+  <!-- Card de Estatísticas Gerais -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilMarques05&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=WilMarques05&theme=tokyonight" height="150" />
+  
+  <!-- Card de Linguagens Mais Usadas (Versão Estável) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilMarques05&theme=tokyonight" height="150" />
 </div>
 
 <br />
 
 <div align="center">
+  <!-- Card de Sequência (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilMarques05&theme=tokyonight&hide_border=true" alt="Sequência de Commits" height="150" />
 </div>
 
