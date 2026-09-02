@@ -46,10 +46,8 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e estudante de **Engenhar
 
 ---
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Willis" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WilMarques05&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Estatísticas de Willis" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilMarques05&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="150" />
 </div>
 
@@ -68,8 +66,6 @@ Aplicação web que simula uma plataforma de mobilidade urbana completa, desenvo
   - **UI/UX & Otimização:** Interface responsiva com estética *Glassmorphism/Neon UI* e compressão automática de imagens via *Canvas API* antes do upload.
 
 ---
-
-### 🎮 Jogo da Cobrinha (Contributions Snake)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilMarques05/WilMarques05/output/github-contribution-grid-snake-dark.svg">
